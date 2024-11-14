@@ -1,0 +1,42 @@
+/* h1-6 标题风车旋转效果 */
+#article-container.post-content h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before {
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#footer-wrap .icon-upyun {
+    position: relative;
+    top: -3px;
+}
+
+#footer-wrap .icon-icp {
+    padding: 0 4px;
+    width: auto;
+    vertical-align: text-bottom;
+}
+
+#aside-content .aside-list>.aside-list-item .content>.comment {
+    word-break: break-word;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: var(--btn-bg);
+    border-radius: 4px;
+}
+
+*::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+#footer {
+    background-position: center;
+}
