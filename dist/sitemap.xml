@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/posts/11dbd7e2/</loc>
+    <loc>https://www.jamesy.cn/posts/22584a84/</loc>
     
     <lastmod>2022-04-08</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/posts/22584a84/</loc>
+    <loc>https://www.jamesy.cn/posts/11dbd7e2/</loc>
     
     <lastmod>2022-04-08</lastmod>
     
@@ -329,6 +329,34 @@
   </url>
   
   <url>
+    <loc>https://www.jamesy.cn/pages/tags/Bug/</loc>
+    <lastmod>2024-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jamesy.cn/pages/tags/H5/</loc>
+    <lastmod>2024-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jamesy.cn/pages/tags/ElementUI/</loc>
+    <lastmod>2024-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jamesy.cn/pages/tags/Vue/</loc>
+    <lastmod>2024-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jamesy.cn/pages/tags/Github/</loc>
     <lastmod>2024-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -343,13 +371,6 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/H5/</loc>
-    <lastmod>2024-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jamesy.cn/pages/tags/Video/</loc>
     <lastmod>2024-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -357,14 +378,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/Vue/</loc>
-    <lastmod>2024-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jamesy.cn/pages/tags/Bug/</loc>
+    <loc>https://www.jamesy.cn/pages/tags/Nginx/</loc>
     <lastmod>2024-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -385,21 +399,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/ElementUI/</loc>
-    <lastmod>2024-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jamesy.cn/pages/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jamesy.cn/pages/tags/Nginx/</loc>
     <lastmod>2024-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
