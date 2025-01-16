@@ -2,6 +2,18 @@
  * site.js
  */
 
+window.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+	const script = document.createElement('script')
+	script.src = url
+	script.async = true
+	Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+	script.onload = script.onreadystatechange = () => {
+		if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+	}
+	script.onerror = reject
+	document.head.appendChild(script)
+});
+
 // 站点动态 title 是通过 js 监测是否聚焦于当前页面，从而替换标签显示内容。
 var OriginTitile = document.title;
 var titleTime;
