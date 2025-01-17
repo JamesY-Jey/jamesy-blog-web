@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/gallery/Huahua/index.html</loc>
+    <loc>https://www.jamesy.cn/pages/gallery/ForzaHorizon4/index.html</loc>
     
     <lastmod>2022-04-08</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/gallery/ForzaHorizon4/index.html</loc>
+    <loc>https://www.jamesy.cn/pages/gallery/Huahua/index.html</loc>
     
     <lastmod>2022-04-08</lastmod>
     
@@ -329,28 +329,14 @@
   </url>
   
   <url>
+    <loc>https://www.jamesy.cn/pages/tags/Steam/</loc>
+    <lastmod>2025-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jamesy.cn/pages/tags/Bug/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jamesy.cn/pages/tags/H5/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jamesy.cn/pages/tags/%E5%8E%9F%E5%88%9B/</loc>
-    <lastmod>2025-01-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jamesy.cn/pages/tags/%E8%B6%B3%E7%90%83/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -378,6 +364,13 @@
   </url>
   
   <url>
+    <loc>https://www.jamesy.cn/pages/tags/H5/</loc>
+    <lastmod>2025-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jamesy.cn/pages/tags/Web/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -399,14 +392,14 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/Git/</loc>
+    <loc>https://www.jamesy.cn/pages/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.jamesy.cn/pages/tags/Git/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -448,7 +441,14 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/tags/Steam/</loc>
+    <loc>https://www.jamesy.cn/pages/tags/%E5%8E%9F%E5%88%9B/</loc>
+    <lastmod>2025-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jamesy.cn/pages/tags/%E8%B6%B3%E7%90%83/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -471,14 +471,14 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://www.jamesy.cn/pages/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/categories/%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://www.jamesy.cn/pages/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -492,7 +492,7 @@
   </url>
   
   <url>
-    <loc>https://www.jamesy.cn/pages/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.jamesy.cn/pages/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
